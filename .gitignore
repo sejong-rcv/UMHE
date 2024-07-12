@@ -1,0 +1,4 @@
+wandb/
+dataset/
+model_10.pth
+log/

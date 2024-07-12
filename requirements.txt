@@ -1,0 +1,6 @@
+chardet==5.2.0
+kornia==0.5.11
+yacs
+timm
+einops
+imageio

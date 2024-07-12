@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+scipy
+Pillow
+matplotlib
+opencv-python==4.2.0.32
+opencv-contrib-python==4.2.0.32
+tqdm
+wandb
+chardet==5.2.0
+kornia==0.5.11
+yacs
+timm
+einops
+imageio
