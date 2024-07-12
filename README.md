@@ -6,11 +6,6 @@
  >[[Paper_pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494213)]]
 
 
-image
-<p align="center">
-  <img src="assets/movie.gif" alt="Robustness" width="600" />
-</p>
-
 If you find our work useful in your research, kindly consider citing our paper:
 
 ```
@@ -22,7 +17,6 @@ If you find our work useful in your research, kindly consider citing our paper:
     year      = {2024},
 }
 ```
-
 
 ## Getting Started
 
@@ -53,7 +47,7 @@ nvidia-docker run -it --name umhe -v $PWD:/workspace -p 8888:8888 -e NVIDIA_VISI
 ## Datasets
 
 For multispectral homography estimation, we train and test the proposed model on the FLIR dataset, you should first download the dataset. 
-We provide the dataset comprising original multispectral image pairs from the FLIR dataset, pseudo multispectral pairs generated using our style augmentation, and GT corresponding points for evaluation. ([download url](https://drive.google.com/file/d/1rl_Z2R2ScYj69-RuSb7B3FPM_obO7Pst/view?usp=sharing))
+We provide the dataset comprising original multispectral image pairs from the FLIR dataset, pseudo multispectral pairs generated using our style augmentation, and GT corresponding points for evaluation. ([download url](https://drive.google.com/file/d/1etXoocG_DNzWpXrUzKq9MXelLSNJId-p/view?usp=sharing))
 Download and place them in the directory 'dataset/'
 
 ``` 
@@ -106,7 +100,7 @@ sh scripts/test.sh
 
 ## Pretrained Models
 
-We provide the [pretrained weights]() for our network. 
+We provide the [pretrained weights](https://drive.google.com/file/d/1Gt2cwTWsiTZkhuueNkmaXpDf47dT_v1l/view?usp=sharing) for our network. 
 
 
 ## References
