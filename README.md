@@ -23,8 +23,8 @@ If you find our work useful in your research, kindly consider citing our paper:
 ### Git Clone
 
 ```
-git clone https://github.com/sejong-rcv/MLPD-Multi-Label-Pedestrian-Detection.git
-cd MLPD-Multi-Label-Pedestrian-Detection
+git clone https://github.com/sejong-rcv/UMHE.git
+cd UMHE
 ```
 
 ### Docker
